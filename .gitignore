@@ -127,4 +127,7 @@ dist/
 tmp/
 temp/
 
+# config.json
+.archive
+
 # End of https://www.toptal.com/developers/gitignore/api/node 
