@@ -128,6 +128,6 @@ tmp/
 temp/
 
 # config.json
-.archive
+.directory
 src/config.ts
 # End of https://www.toptal.com/developers/gitignore/api/node 
